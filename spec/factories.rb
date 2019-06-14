@@ -1,4 +1,8 @@
 FactoryBot.define do
+  factory :picture do
+    
+  end
+
 
   factory :user do
     sequence :email do |n|
